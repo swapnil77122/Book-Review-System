@@ -1,0 +1,56 @@
+[
+  {
+    "id": "1",
+    "title": "The Alchemist",
+    "author": "Paulo Coelho",
+    "genre": "Fiction",
+    "year": 1988,
+    "description": "A philosophical tale about following one’s dreams and destiny, through the journey of a young shepherd named Santiago.",
+    "image": "http://localhost:5000/images/1.jpeg"
+  },
+  {
+    "id": "2",
+    "title": "Atomic Habits",
+    "author": "James Clear",
+    "genre": "Self-help",
+    "year": 2018,
+    "description": "A guide to building good habits and breaking bad ones using the science of behavior change.",
+    "image": "http://localhost:5000/images/2.jpeg"
+  },
+  {
+    "id": "3",
+    "title": "Rich Dad Poor Dad",
+    "author": "Robert Kiyosaki",
+    "genre": "Finance",
+    "year": 1997,
+    "description": "A personal finance classic contrasting the mindset of the author’s ‘rich dad’ and ‘poor dad’.",
+    "image": "http://localhost:5000/images/3.jpeg"
+  },
+  {
+    "id": "4",
+    "title": "Think and Grow Rich",
+    "author": "Napoleon Hill",
+    "genre": "Motivational",
+    "year": 1937,
+    "description": "One of the best-selling books of all time about achieving success through visualization and persistence.",
+    "image": "http://localhost:5000/images/4.jpeg"
+  },
+  {
+    "id": "5",
+    "title": "Deep Work",
+    "author": "Cal Newport",
+    "genre": "Productivity",
+    "year": 2016,
+    "description": "Explores the benefits of deep, focused work and strategies to master it in a distracted world.",
+    "image": "http://localhost:5000/images/5.jpeg"
+  },
+  {
+    "id": "6",
+    "title": "Ikigai",
+    "author": "Héctor García and Francesc Miralles",
+    "genre": "Self-help / Philosophy",
+    "year": 2016,
+    "description": "Explores the Japanese concept of Ikigai — a reason for being, blending purpose, longevity, and happiness.",
+    "image": "http://localhost:5000/images/6.jpeg"
+  }
+]
