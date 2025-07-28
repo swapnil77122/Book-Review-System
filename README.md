@@ -56,7 +56,7 @@ A simple web application for users to register, log in, and review books.
    cd ../frontend
    npm start
    ```
-   The frontend should run on [http://localhost:3000](http://localhost:3000).
+   The frontend should run on [http://localhost:5173](http://localhost:3000).
 
 ### Usage
 
