@@ -38,7 +38,7 @@ A simple web application for users to register, log in, and review books.
 
 3. **Install backend dependencies:**
    ```bash
-   cd ../backend
+   cd backend
    npm install
    ```
 
